@@ -1,0 +1,121 @@
+https://blog.melizeche.com/product-codes-para-nokia-n95-1-n95-2-n95-3-n95-4-guia-definitiva/
+
+Aca va la lista de Product Codes de cada N95,  NUNCA usar el Product Code de un modelo en otro, si no estas seguro de cual es el tuyo apreta en tu n95 *#0000#  y ve que RM-XXX es.
+
+N95-1 (RM-159)
+0534841 EURO1
+0534842 FRANCE
+0534843 ALPS
+0534844 EURO2
+0534845 TURKEY
+0534847 SCANDINAVIA
+0534848 BALTIAN
+0534849 RUSSIAN
+0534850 UKRAINE
+0534851 CIS, Bulgaria
+0534852 EURO3
+0534853 BALKANS
+0534854 GREECE, CYPROS
+0534857 ISRAEL
+0536058 BELARUS/MOLDOVA
+0536062 EURO1
+0536063 FRANCE
+0536064 ALPS
+0536065 EURO2
+0536066 TURKEY
+0536068 SCANDINAVIA
+0536069 BALTIAN
+0536070 RUSSIAN
+0536071 UKRAINE
+0536072 CIS, Bulgaria
+0536073 BELARUS/MOLDOVA
+0536074 EURO3
+0536075 BALKANS
+0536076 GREECE, CYPROS
+0536079 ISRAEL
+0534839 VIETNAM
+0548021 UNITED KINDOM
+0546659 Deep Plum - UK
+0548986
+0534832: Hong Kong
+0536084: Hong Kong
+0534830: Taiwan
+0536083: Taiwan
+0534833: Apac 1
+0536085: Apac 1
+0534834: Philippines
+0534835: Australia
+0534836: New Zeland
+0534837: Indonesia
+0536086: Philippines
+0536087: Australia
+0536088: New Zeland
+0536089: Indonesia
+0548298: India Apac 2
+0548299: India Apac 2
+0535053: Thailand
+0536093: Thailand
+0534839: Vietnam
+0536091: Vietnam
+0548763: NEW YORK
+
+Product code Operatori
+0548170 - Orange UK
+0548020 - Movistar (Spain?)
+Language Packs
+EURO1: English, French, German, Italian, Spanish, Portuguese
+EURO2: English, French, German, Turkish, Dutch, Italian
+EURO2: English, Czech, Slovakian, German, Polish, Hungarian
+Scandinavia: English, Finnish, Swedish, Norwegian, Icelandic, Danish
+Baltic: English, German, Estonian, Russian, Latvian, Lithuanian
+Russia: English, German, Ukrainian, Russian, Romanian, Bulgarian, Hungarian
+Balkans: English, German, Croatian, Slovenian, Serbian, Greek
+Arabic: English, Arabic, French, Farsi, Urdu
+Hebrew: English, Hebrew, Arabian, Russian, Romanian, Spanish
+Africa: English, Portuguese, German, Italian, French
+N95-2  8GB (RM-320)
+0549487 - Euro1
+0550348 - France
+0550352 - Alps
+0550359 - Euro2
+0550370 - Turkey
+0550372 - Scandinavia
+0550373 - Baltian
+0550375 - CIS, Bulgaria
+0550378 - Euro3
+0550379 - Balkans
+0550388 - Africa (Nigeria)
+0550453 - Australia
+0550454 - New Zealand
+0550455 - Indonesia
+0550457 - Vietnam
+0550459 - Thailand
+0550801 - Greece, Cyprus
+0550802 - Israel
+0550798 - Russia
+0550799 - Ukraine
+0550800 - Belarus/Moldavia
+0555180 - Singapore
+0555181 - Malaysia
+0555187 - Emerging Asia
+0558190 - BENELUX (Belgium + Netherlands + Luxemburg)
+0556218 - North America
+0557497 - SK CV
+0557637 - Philippines
+0557877 - Malaysia
+0557980 - Hong Kong / China
+0558086 - Norwegian
+0558296 - Italia
+0558787 - United Kingdom CV
+0559248 - VF live! Iceland Og GV
+0559497 - UK O2
+0564947 - Turkey CV
+N95-3 (RM-160)
+0534861: NAM / US
+0552415: NAM / US
+0551733: NAM / LTA
+0551734: NAM / LTA
+0552432: NAM / Brazil
+0552434: NAM / Brazil
+N95-4 8GB (RM-421)
+0561948   <--- NO ENCONTRE NADA MAS
