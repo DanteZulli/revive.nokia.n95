@@ -1,4 +1,4 @@
-# Revive tu Nokia N95! (RM-159/RM-160/RM-320)
+# Revive tu Nokia N95! 
 
 ![Nokia N95](https://user-images.githubusercontent.com/27629528/111556514-1a841600-878b-11eb-8063-5d8cac57c0eb.jpg)
 
@@ -74,7 +74,7 @@ Las últimas versiones de los firmwares para el Nokia N95 son:
 > Notas sobre el flasheo (Paso 6):
 > - Si Phoenix no logra detectar el teléfono, probá con otro cable USB o puerto USB, o instalando el Nokia Connectivity Cable Drivers (ubicado en `/dev/sdk/Connectivity_Cable_Driver.exe`).
 > - Si te pasa como a mí, que el flasheo dispara una pantalla azúl de la muerte al intentar reconocer el dispositivo durante el proceso ([literalmente](/images/bsod.jpg)) por checkeos de seguridad del Kernel con el modo de carga ADL, probá con una computadora con Windows 7, o con una versión más antigua de Windows 10. En mi caso, no pude flashear el teléfono con Windows 10 ni 11, pero sí con Windows 7 (Aclaración: en W7 tuve que instalar obligatoriamente el Nokia Suite, el Nokia Connectivity Cable Drivers y cancelar la revisión de de drivers vía Windows Update, en ese orden).
-> - Si te encontrás con algún error durante el flasheo, y nada de lo anterior funciona, podés probar editando el código de producto del teléfono con Némesis Service Suite (NSS). En `/docs` adjunto algunos códigos útiles, aunque podés encontrarlos en internet. **¡Usá NSS con precaución! Solo cambiá el código del producto, y asegurate de que el nuevo sea compatible con tu modelo** ([imagen de muestra](/images/nss.jpg))
+> - Si te encontrás con algún error durante el flasheo, y nada de lo anterior funciona, podés probar editando el código de producto del teléfono con Némesis Service Suite (NSS). En `/docs` adjunto algunos códigos útiles, aunque podés encontrarlos en internet. **¡Usá NSS con precaución! Solo cambiá el código del producto, y asegurate de que el nuevo sea compatible con tu modelo** ([imagen de muestra](/images/nss.png))
 
 
 
