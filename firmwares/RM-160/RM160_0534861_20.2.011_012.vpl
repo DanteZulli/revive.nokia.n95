@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VariantPackingList>
+  <Tracking>
+    <OriginalFileName>RM160_0534861_20.2.011_012.vpl</OriginalFileName>
+    <TimeStamp>2008-05-23T16:28:36+06:-30</TimeStamp>
+    <Origin />
+</Tracking>
+  <Variant>
+    <VariantIdentification>
+      <Description>NAM / US</Description>
+      <TypeDesignator>RM-160</TypeDesignator>
+      <ProductCode>0534861</ProductCode>
+      <VariantGroup>NAM</VariantGroup>
+</VariantIdentification>
+    <SwVersion>20.2.011</SwVersion>
+    <VariantVersion>012</VariantVersion>
+    <FileList>
+      <File>
+        <Name>RM-160_20.2.011_PR.C0R</Name>
+        <FileType>Binary</FileType>
+        <FileSubType>Mcu</FileSubType>
+        <Signed>false</Signed>
+        <Optional>false</Optional>
+        <Crc>4645a573</Crc>
+</File>
+      <File>
+        <Name>RM-160_20.2.011_PR.v19</Name>
+        <FileType>Binary</FileType>
+        <FileSubType>Ppm</FileSubType>
+        <Signed>false</Signed>
+        <Optional>false</Optional>
+        <Crc>5dfd3768</Crc>
+</File>
+      <File>
+        <Name>RM160_20.2.006_003_xxx_U04_uda.fpsx</Name>
+        <FileType>Binary</FileType>
+        <FileSubType>Content</FileSubType>
+        <Signed>false</Signed>
+        <Optional>false</Optional>
+        <Crc>adf167b5</Crc>
+</File>
+      <File>
+        <Name>RM160_0534861_20.2.011_012.dcp</Name>
+        <FileType>Dcp</FileType>
+        <Signed>true</Signed>
+        <Optional>false</Optional>
+        <Crc>b3be1827</Crc>
+</File>
+      <File>
+        <Name>RM160_0534861_20.2.011_012_signature.bin</Name>
+        <FileType>Signature</FileType>
+        <Optional>false</Optional>
+</File>
+      <File>
+        <Name>simlock_3gstandard_bb5.bin</Name>
+        <FileType>Binary</FileType>
+        <FileSubType>SimLock</FileSubType>
+        <Signed>false</Signed>
+        <Optional>true</Optional>
+        <Crc>4bb6a63f</Crc>
+</File>
+      <File>
+        <Name>05471201.pcx</Name>
+        <FileType>Binary</FileType>
+        <FileSubType>TypeLabelPicture</FileSubType>
+        <Signed>false</Signed>
+        <Optional>true</Optional>
+        <Crc>b30fc6c7</Crc>
+</File>
+      <File>
+        <Name>RM-160_CE_label_001.xml</Name>
+        <FileType>Xml</FileType>
+        <FileSubType>TypeLabelConfiguration</FileSubType>
+        <Signed>false</Signed>
+        <Optional>true</Optional>
+        <Crc>e0f74473</Crc>
+</File>
+      <File>
+        <Name>CCC_Aalto_pi39_APE_0534861.bin</Name>
+        <FileType>Binary</FileType>
+        <FileSubType>CccApe</FileSubType>
+        <Signed>false</Signed>
+        <Optional>true</Optional>
+        <Crc>c4b1e18d</Crc>
+</File>
+      <File>
+        <Name>CCC_Aalto_pi39_CMT_0534861.bin</Name>
+        <FileType>Binary</FileType>
+        <FileSubType>CccCmt</FileSubType>
+        <Signed>false</Signed>
+        <Optional>true</Optional>
+        <Crc>30c51ec4</Crc>
+</File>
+      <File>
+        <Name>HWT_Aalto_pi39_APE_0534861.bin</Name>
+        <FileType>Binary</FileType>
+        <FileSubType>HwcTemplateApe</FileSubType>
+        <Signed>false</Signed>
+        <Optional>true</Optional>
+        <Crc>8669cd05</Crc>
+</File>
+      <File>
+        <Name>HWT_Aalto_pi39_CMT_0534861.bin</Name>
+        <FileType>Binary</FileType>
+        <FileSubType>HwcTemplateCmt</FileSubType>
+        <Signed>false</Signed>
+        <Optional>true</Optional>
+        <Crc>dab88d46</Crc>
+</File>
+</FileList>
+</Variant>
+</VariantPackingList>
