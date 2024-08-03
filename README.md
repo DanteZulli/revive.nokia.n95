@@ -41,7 +41,7 @@ Otros:
 
 ### **_Firmware:_**
 
-Los últimos versiones de los firmwares para el Nokia N95 son:
+Las últimas versiones de los firmwares para el Nokia N95 son:
 - N95-1 (RM-159) : 35.0.002 ([link](https://www.frendx.com/firmware/download-nokia-n95-rm-159-v35-0-002-stock-firmware-flash-file/))
 - N95-2 8GB (RM-320): 35.0.001 ([link](https://www.frendx.com/firmware/download-nokia-n95-rm-320-v35-0-001-stock-firmware-flash-file/))
 - N95-3 (RM-160): 35.2.001 ([link](https://www.frendx.com/firmware/download-nokia-n95-3-rm-160-v35-2-001-stock-firmware-flash-file/))
@@ -56,7 +56,7 @@ Los últimos versiones de los firmwares para el Nokia N95 son:
 - Cable Mini-USB o computadora con conexión Bluetooth (Para enviarle archivos al teléfono)
 - Phoenix Service Software ([link](https://mega.nz/file/tpkEVIhT) - Clave: fjsWdcfrlbc4wA3BLqB4H6MNm1Jvyvu0RlO6fLmdg0c - Contraseña: 1234)
 - Némesis Service Suite ([link](https://archive.org/details/nemesis-service-nss))
-- Una computadora con Windows XP/7/8/10/11 (Yo usé Windows 7, más abajo explico el por qué)
+- Una computadora con Windows XP/7/8/10/11
 
 ### **_Pasos para flashear el firmware más reciente:_**
 
@@ -74,14 +74,16 @@ Los últimos versiones de los firmwares para el Nokia N95 son:
 > Notas sobre el flasheo (Paso 6):
 > - Si Phoenix no logra detectar el teléfono, probá con otro cable USB o puerto USB, o instalando el Nokia Connectivity Cable Drivers (ubicado en `/dev/sdk/Connectivity_Cable_Driver.exe`).
 > - Si te pasa como a mí, que el flasheo dispara una pantalla azúl de la muerte al intentar reconocer el dispositivo durante el proceso ([literalmente](/images/bsod.jpg)) por checkeos de seguridad del Kernel con el modo de carga ADL, probá con una computadora con Windows 7, o con una versión más antigua de Windows 10. En mi caso, no pude flashear el teléfono con Windows 10 ni 11, pero sí con Windows 7 (Aclaración: en W7 tuve que instalar obligatoriamente el Nokia Suite, el Nokia Connectivity Cable Drivers y cancelar la revisión de de drivers vía Windows Update, en ese orden).
-> - Si te encontrás con algún error durante el flasheo, y nada de lo anterior funciona, podés probar editando el código de producto del teléfono con Némesis Service Suite (NSS). En `/docs` adjunto algunos códigos útiles, aunque podés encontrarlos en internet. **¡Usá NSS con precaución! Solo cambiá el código del producto, y asegurate de que el nuevo sea compatible con tu modelo**
+> - Si te encontrás con algún error durante el flasheo, y nada de lo anterior funciona, podés probar editando el código de producto del teléfono con Némesis Service Suite (NSS). En `/docs` adjunto algunos códigos útiles, aunque podés encontrarlos en internet. **¡Usá NSS con precaución! Solo cambiá el código del producto, y asegurate de que el nuevo sea compatible con tu modelo** ([imagen de muestra](/images/nss.jpg))
 
 
 
 ### **_Pasos para hackear S60 Symbian V3:_**
 
+Para evitar errores de firma y poder instalar aplicaciones no firmadas, es necesario hackear el sistema operativo.
+
 > [!WARNING]
-> Para evitar errores de firma y poder instalar aplicaciones no firmadas, es necesario hackear el sistema operativo. No todos los métodos de hackeo funcionan para todos los modelos de Nokia N95, ni tampoco para todas las versiones de firmware, así que voy a detallar varios métodos que podés probar:
+> No todos los métodos de hackeo funcionan para todos los modelos de Nokia N95, ni tampoco para todas las versiones de firmware, así que voy a detallar varios métodos que podés probar:
 
 
 #### **_Método 1 (Norton Hack):_**
