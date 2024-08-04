@@ -131,4 +131,7 @@ Credits to [@Mr_symbian](https://www.youtube.com/@Mr_symbian)
 
 If the previous methods do not work, you can try an application to "sign" applications. They didn't work for me, but I left the files in `/signing_apps` in case you want to try them.
 
+### **_Development:_**
 
+If you are interested in developing applications for Symbian S60v3, you can find the SDKs in this repository. I also attach some tools and resources that may be useful for development. <br>
+You can code with C++ (native), Java ME (native), QT (native) or Python for S60 (PyS60).

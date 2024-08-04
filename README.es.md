@@ -130,3 +130,8 @@ Créditos a [@Mr_symbian](https://www.youtube.com/@Mr_symbian)
 #### **_Alternativas:_**
 
 Si los métodos anteriores no funcionan, podés probar con alguna aplicación para "firmar" aplicaciones. A mí no me funcionaron, pero dejé los archivos en `/signing_apps` por si querés probarlos.
+
+### **_Desarrollo:_**
+
+Si estás interesado en desarrollar aplicaciones para Symbian S60v3, podés encontrar los SDKs en este repositorio. También adjunto algunas herramientas y recursos que pueden ser útiles para el desarrollo. <br>
+Podés programar con C++ (nativo), Java ME (nativo), QT (nativo) o Python para S60 (PyS60).
