@@ -1,4 +1,4 @@
-# Revive tu Nokia N95
+# Revive tu Nokia N95 ![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white)
 
 Revive tu viejo S60v3 FP1 Symbian Nokia N95 (RM-159/RM-160/RM-320) con esta guía del _~~2021~~_ 2024!
 
