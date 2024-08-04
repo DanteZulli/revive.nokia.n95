@@ -2,7 +2,6 @@
 
 ![Nokia N95](https://user-images.githubusercontent.com/27629528/111556514-1a841600-878b-11eb-8063-5d8cac57c0eb.jpg)
 
-> [!IMPORTANT]
 > Tanto el teléfono de la foto, como la base de este repositorio, son atribuídas a [@domib97](https://github.com/domib97)
 
 ### **_Descripción:_**
@@ -47,8 +46,8 @@ Las últimas versiones de los firmwares para el Nokia N95 son:
 - N95-3 (RM-160): 35.2.001 ([link](https://www.frendx.com/firmware/download-nokia-n95-3-rm-160-v35-2-001-stock-firmware-flash-file/))
 - N95-4 8GB (RM-421) 35.2.002 ([link](https://www.frendx.com/firmware/download-nokia-n95-rm-421-v20-2-005-stock-firmware-flash-file/))
 
-> [!WARNING]
-> Asegúrate de que el código de producto de tu teléfono coincida con el firmware que estás intentando instalar. Puedes encontrar el código de producto en la parte trasera de la batería, o con el teléfono mismo, marcando `*#0000#`. <br> Si los links de descarga no funcionan, puedes buscar en Google el firmware correspondiente a tu modelo.
+> [!CAUTION]
+> Asegúrate de que el código de tu teléfono coincida con el del firmware que estás intentando instalar. Puedes encontrar el código de producto en la parte trasera, debajo de la batería, o con el teléfono mismo, marcando `*#0000#`. <br> Si los links de descarga no funcionan, puedes buscar en Google el firmware correspondiente a tu modelo.
 
 ### **_Prerrequisitos:_**
 
@@ -73,7 +72,7 @@ Las últimas versiones de los firmwares para el Nokia N95 son:
 > [!NOTE]
 > Notas sobre el flasheo (Paso 6):
 > - Si Phoenix no logra detectar el teléfono, probá con otro cable USB o puerto USB, o instalando el Nokia Connectivity Cable Drivers (ubicado en `/dev/sdk/Connectivity_Cable_Driver.exe`).
-> - Si te pasa como a mí, que el flasheo dispara una pantalla azúl de la muerte al intentar reconocer el dispositivo durante el proceso ([literalmente](/images/bsod.jpg)) por checkeos de seguridad del Kernel con el modo de carga ADL, probá con una computadora con Windows 7, o con una versión más antigua de Windows 10. En mi caso, no pude flashear el teléfono con Windows 10 ni 11, pero sí con Windows 7 (Aclaración: en W7 tuve que instalar obligatoriamente el Nokia Suite, el Nokia Connectivity Cable Drivers y cancelar la revisión de de drivers vía Windows Update, en ese orden).
+> - Si te pasa como a mí, que el flasheo dispara una pantalla azul de la muerte al intentar reconocer el dispositivo durante el proceso ([literalmente](/images/bsod.jpg)) por chequeos de seguridad del Kernel con el modo de carga ADL, probá con una computadora con Windows 7, o con una versión más antigua de Windows 10. En mi caso, no pude flashear el teléfono con Windows 10 ni 11, pero sí con Windows 7 (Aclaración: en W7 tuve que instalar obligatoriamente el Nokia Suite, el Nokia Connectivity Cable Drivers y cancelar la revisión de de drivers vía Windows Update, en ese orden).
 > - Si te encontrás con algún error durante el flasheo, y nada de lo anterior funciona, podés probar editando el código de producto del teléfono con Némesis Service Suite (NSS). En `/docs` adjunto algunos códigos útiles, aunque podés encontrarlos en internet. **¡Usá NSS con precaución! Solo cambiá el código del producto, y asegurate de que el nuevo sea compatible con tu modelo** ([imagen de muestra](/images/nss.png))
 
 
@@ -106,7 +105,7 @@ Créditos a [@tsle805](https://www.youtube.com/@tsle805)
 Créditos a [@Mr_symbian](https://www.youtube.com/@Mr_symbian)
 
 1. Hacé un hard reset al teléfono (opcional) marcando `*#7370#` (Código: 12345).
-2. En el teléfono (Settings > Applicattions > App. Manager), asegurate que el apartado de "Software Installation" se encuentre en "All".
+2. En el teléfono (Settings > Applications > App. Manager), asegurate que el apartado de "Software Installation" se encuentre en "All".
 3. Cambiá la fecha del teléfono a 01/01/2012.
 4. Descargá los archivos necesarios de `/mobile_security_hack` y copialos a tu teléfono mediante USB/Bluetooth.
 5. Instalá `x-plore v1.30.sisx`.
@@ -114,15 +113,15 @@ Créditos a [@Mr_symbian](https://www.youtube.com/@Mr_symbian)
 7. Abrí el tmquarantine.zip y extraé la carpeta tmquarantine a `C:\`.
 8. Instalá `mobile-security.sisx`. Cuando te solicite reiniciar, no lo hagas.
 9. Abrí mobile-security, poné "Yes" al primer mensaje.
-10. Seleccioná "Options" -> "Antivirus" -> "Quarantine list" -> "Options" -> "Mark" -> "Mark all" -> "Options" -> "Restore" -> "Yes".
+10. Seleccioná Options -> Antivirus -> Quarantine list -> Options -> Mark -> Mark all -> Options -> Restore -> Yes.
 11. Abrí X-Plore y navegá hasta la carpeta donde copiaste los archivos (Files).
 12. Instalá `RomPatcherPlus_3.1_LiteVersion.sisx` o alguna versión alternativa si esa no funciona.
 13. Abrí RomPatcher -> Tildá ambas opciones.
-14. Abrí X-Plore, Tools -> Configuration -> Turn on "Show hidden files", "Show ROM drives", "Show RAM drives" y "Show system files/folders".
+14. Abrí X-Plore, Tools -> Configuration -> Marcá las 4 opciones; "Show hidden files", "Show ROM drives", "Show RAM drives" y "Show system files/folders".
 15. Abrí la carpeta Hacker69 y elegí la carpeta de acuerdo a tu modelo de teléfono.
 16. Copiá el archivo `installserver.exe` a `C:\sys\bin`.
 17. Eliminá Mobile Security desde el Administrador de Aplicaciones.
 
 #### **_Alternativas:_**
 
-Si los métodos anteriores no funcionan, podés probar con alguna aplicación para "firmar" aplicaciones. A mi no me funcionaron, pero dejé los archivos en `/signing_apps` por si querés probarlos.
+Si los métodos anteriores no funcionan, podés probar con alguna aplicación para "firmar" aplicaciones. A mí no me funcionaron, pero dejé los archivos en `/signing_apps` por si querés probarlos.
