@@ -43,7 +43,8 @@ Apps:
 
 Others:
 - http://m.opera.com/?region&act=lp&tag=mini5s60&vid=0x9c7f9c859a2dd90a&cert=all&ua=NokiaN95 (Opera Mini)
-
+- https://s2putty.sourceforge.net/ (PuTTY)
+  
 ### **_Firmware:_**
 
 The latest firmware versions for the Nokia N95 are:
