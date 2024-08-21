@@ -33,6 +33,7 @@ Comunidad:
 - https://www.gsmarena.com/nokia_n95-1716.php (comunidad aún activa)
 - https://www.reddit.com/r/symbian/ (comunidad Symbian)
 - https://www.reddit.com/r/ngage/ (comunidad N-Gage)
+- https://t.me/SymbianElite (canal comunitario Symbian)
 
 Apps:
 - http://www.freeware-symbian.com (apps)
