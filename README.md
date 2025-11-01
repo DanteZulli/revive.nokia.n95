@@ -61,7 +61,7 @@ The latest firmware versions for the Nokia N95 are:
 
 - Nokia N95 (RM-159/RM-160/RM-320 were the models in which I found reports of success)
 - Mini-USB cable or computer with Bluetooth connection (To send files to the phone)
-- Phoenix Service Software ([link](https://mega.nz/file/tpkEVIhT) - Key: fjsWdcfrlbc4wA3BLqB4H6MNm1Jvyvu0RlO6fLmdg0c - Password: 1234)
+- Phoenix Service Software ([link](https://archive.org/download/phoenix_service_software))
 - Nemesis Service Suite ([link](https://archive.org/details/nemesis-service-nss))
 - A computer with Windows XP/7/8/10/11
 
